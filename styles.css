@@ -33,3 +33,22 @@ table{
 form{
     color: yellow;
 }
+
+div{
+    background-color: pink;
+}
+
+#blockOne{
+    background-color: indigo;
+}
+.dablocks{
+    background-color: lightsalmon;
+}
+
+#blockFour{
+    background-color: gold;
+}
+
+#blockFive{
+    background-color: lightskyblue;
+}
