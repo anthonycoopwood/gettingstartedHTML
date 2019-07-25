@@ -5,30 +5,65 @@ body{
 
 body{
     background-color: silver;
+    background-image: url("https://static4.businessinsider.com/image/5d1fc363a17d6c01fc5102c3-1257/lebron-james.jpg");
 }
 
 p{
     border: dotted;
     border-color: red;
     border-width: 4px;
+    padding: 30px;
+    position: relative ;
+    top: 100px;
+    left:50px;
+    color: blue;
 }
 
- p{
+ #ptag2{
      border: solid;
      border-color:green;
      border-width: 10px;
+     color: blue;
+ }
+
+ #div1{
+     height: 100px;
+     color: blue;
+ }
+
+ #div2{
+     width: 50%;
+     color: blue;
+ }
+
+ #div3{
+     width: 200px;
+     padding: 25px;
+     border-width: 25px;
+     border: solid purple;
+     position: relative;
+     left: 20px;
+     down:50px;
+     color: blue;
  }
 
  body{
      margin: 10px;
+     padding: 25px;
  }
 
  h1{
      margin-left: 20px;
- }
+     text-align: center;
+     position: relative;
+     top: 100px;
+     right: 100px;
+     color: red;
+}
 
  h2{
      margin: 25px;
+     color:green;
  }
 
  h3{
@@ -36,4 +71,7 @@ p{
      margin-bottom: 50px;
      margin-left: 25px;
      margin-right: 25px;
+     color: orange;
  }
+
+
