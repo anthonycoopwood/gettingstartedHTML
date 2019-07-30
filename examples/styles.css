@@ -37,13 +37,16 @@ form{
 
 div{
     background-color: pink;
+
 }
 
 #blockOne{
     background-color: indigo;
+    font-family: 'Roboto', sans-serif;
 }
 .dablocks{
     background-color: lightsalmon;
+font-family: 'Fira Code', monospace;
 }
 
 #blockFour{
@@ -76,6 +79,8 @@ padding: 75px;
 margin: 75px;
 width: 50px;
 height: 100px;
+font-family: 'Anton', sans-serif;
+
 }
 
 #fixed{
