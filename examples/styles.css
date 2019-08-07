@@ -3,8 +3,8 @@ body{
 }
 
 img{
-    width: 300%;
-    height:300%;
+    width: 150;
+    height:150%;
 }
 
 h2{
@@ -121,4 +121,10 @@ height: 300px;
 
 div{
     border-style: dotted solid;
+}
+
+
+a:link {
+  color:brown;
+
 }
